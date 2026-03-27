@@ -97,7 +97,7 @@ Je recherche une **alternance ou un stage d'apprentissage (2 jours école – 3 
 
 ## 📫 Contact
 
-📧 Email : **guayefallou418@gmail.com**  
+📧 Email : **gueyefallou181@gmail.com**  
 🔗 LinkedIn : **www.linkedin.com/in/fallou-gueye-df**  
 📍 Basé à Paris / Île-de-France
 
