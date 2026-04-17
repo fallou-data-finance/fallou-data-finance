@@ -24,7 +24,7 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 - Théorie moderne du portefeuille (Markowitz)  
 - Analyse risque / performance (P&L, drawdown, rendement annualisé)
 
-### 🐍 **Programmation**
+###  **Programmation**
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)  
 - Manipulation de données  
 - Construction de modèles financiers dans Jupyter Notebook  
