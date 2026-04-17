@@ -53,7 +53,7 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 - Sharpe 
 - Portefeuille optimal   
 - ➡️ Airbus optimal court/moyen terme – LVMH optimal long terme 
-🔗 https://github.com/fallou-data-finance/Simulation-Multi-Scenarios-et-Analyse-Risque-Rendement-LVMH-vs-Airbus
+ 🔗 https://github.com/fallou-data-finance/Simulation-Multi-Scenarios-et-Analyse-Risque-Rendement-LVMH-vs-Airbus
 
 ---
 
