@@ -48,41 +48,40 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 ### 🔹 **Simulation Multi‑Scénarios et Analyse Risque‑Rendement (LVMH vs Airbus)**  
 - Analyse d’un investissement de 1M€ selon 5 scénarios de pondération et sur 4 horizons : **1Y, 3Y, 5Y, 10Y** .
 
-✅ Rendements 
-✅ Volatilité 
-✅ Sharpe 
-✅ Portefeuille optimal   
-➡️ Airbus optimal court/moyen terme – LVMH optimal long terme 
+- Rendements 
+- Volatilité 
+- Sharpe 
+- Portefeuille optimal   
+- ➡️ Airbus optimal court/moyen terme – LVMH optimal long terme 
 🔗 https://github.com/fallou-data-finance/Simulation-Multi-Scenarios-et-Analyse-Risque-Rendement-LVMH-vs-Airbus
 
 ---
 
 ### 🔹 **Analyse Financière Apple – CAPM complet**  
 Analyse des rendements AAPL vs S&P500 :  
-✅ β, α, R²  
-✅ Régression OLS (Newey‑West)  
-✅ Analyse de risque (VaR, ES)  
-✅ Volatilité glissante  
+- β, α, R², Régression OLS (Newey‑West)  
+- Analyse de risque (VaR, ES)  
+- Volatilité glissante  
 🔗 https://github.com/fallou-data-finance/Analyse_Financiere_AAPL_CAPM
 
 ---
 
 ### 🔹 **Optimisation de Portefeuille – Markowitz**  
 Construction d’un portefeuille optimal :  
-✅ Matrice de covariance  
-✅ Frontière efficiente  
-✅ Portfolio à variance minimale  
-✅ Portfolio Sharpe maximal  
+- Matrice de covariance  
+- Frontière efficiente  
+- Portfolio à variance minimale  
+- Portfolio Sharpe maximal  
 🔗 https://github.com/fallou-data-finance/projet-markowitz
 
 ---
 
 ### 🔹 **Analyse du Risque & Portefeuille CAC40**  
 Étude des 10 grandes capitalisations françaises :  
-✅ Corrélation / Covariance  
-✅ Volatilité  
-✅ Analyse comparative vs CAC40  
-✅ Risque extrême (VaR / ES)  
+- Corrélation / Covariance  
+- Volatilité  
+- Analyse comparative vs CAC40  
+- Risque extrême (VaR / ES)  
 🔗 https://github.com/fallou-data-finance/Analyse_du_Risque_et_Portefeuille_CAC_40
 
 ---
