@@ -1,5 +1,5 @@
 #  Bonjour, je suis Fallou Gueye
-### 🎓 Étudiant en M1 Big Data & Data Science appliquée à la Finance – ESG Finance (Paris)  
+###  Étudiant en M1 Big Data & Data Science appliquée à la Finance – ESG Finance (Paris)  
 ###  Data Analyst Junior • Financial Data Analyst Junior • Risque & Portefeuille
 
 Passionné par la donnée, la finance quantitative et l’analyse de performance, je développe des projets mêlant **Data Science**, **statistiques**, **gestion du risque**, et **analyse de portefeuilles**.  
@@ -95,7 +95,7 @@ Je recherche une **alternance ou un stage d'apprentissage (2 jours école – 3 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 📧 Email : **gueyefallou181@gmail.com**  
 🔗 LinkedIn : **www.linkedin.com/in/fallou-gueye-df**  
@@ -103,4 +103,4 @@ Je recherche une **alternance ou un stage d'apprentissage (2 jours école – 3 
 
 ---
 
-⭐ *Merci de visiter mon profil ! N’hésitez pas à me contacter ou à consulter mes projets.*  
+ *Merci de visiter mon profil ! N’hésitez pas à me contacter ou à consulter mes projets.*  
