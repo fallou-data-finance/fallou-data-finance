@@ -1,23 +1,23 @@
-# 👋 Bonjour, je suis Fallou Gueye
+#  Bonjour, je suis Fallou Gueye
 ### 🎓 Étudiant en M1 Big Data & Data Science appliquée à la Finance – ESG Finance (Paris)  
-### 💼 Data Analyst Junior • Financial Data Analyst Junior • Risque & Portefeuille
+###  Data Analyst Junior • Financial Data Analyst Junior • Risque & Portefeuille
 
 Passionné par la donnée, la finance quantitative et l’analyse de performance, je développe des projets mêlant **Data Science**, **statistiques**, **gestion du risque**, et **analyse de portefeuilles**.  
 Je maîtrise les bases essentielles de la Data Science en Python et j’applique ces compétences à des problématiques financières réelles.
 
 Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3 jours entreprise)** dans les domaines :  
-✅ Data Science  
-✅ Data Analyst  
-✅ Financial Data Analyst  
-✅ Risque / Gestion de portefeuille  
+• Data Science  
+• Data Analyst  
+• Financial Data Analyst  
+• Risque / Gestion de portefeuille  
 
 **Disponible immédiatement**.
 
 ---
 
-## 🚀 Compétences
+##  Compétences
 
-### 📊 **Data & Quantitative Finance**
+###  **Data & Quantitative Finance**
 - Analyse de séries temporelles financières  
 - Calculs de rendements, volatilité, covariance, corrélation  
 - Modèles de performance : **Sharpe**, **VaR / ES**, **β / α (CAPM)**  
@@ -29,19 +29,19 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 - Manipulation de données  
 - Construction de modèles financiers dans Jupyter Notebook  
 
-### 💻 **Informatique & Outils**
+###  **Informatique & Outils**
 - Excel / VBA  
 - SQL (bases)  
 - SAS  
 - GitHub & Git  
 
-### 🌍 **Langues**
+###  **Langues**
 - Français  
 - Anglais (niveau moyen)
 
 ---
 
-## 📂 Projets Data & Finance
+##  Projets Data & Finance
 
 ### 🔹 **Simulation Multi‑Scénarios et Analyse Risque‑Rendement (LVMH vs Airbus)**  
 Analyse d’un investissement de 1M€ selon 5 scénarios de pondération et sur 4 horizons : **1Y, 3Y, 5Y, 10Y**.  
@@ -81,7 +81,7 @@ Construction d’un portefeuille optimal :
 
 ---
 
-## 🎯 Objectif Professionnel
+##  Objectif Professionnel
 
 Je recherche une **alternance ou un stage d'apprentissage (2 jours école – 3 jours entreprise)** en :
 
