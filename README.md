@@ -46,7 +46,7 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 ---
 
 ### 🔹 **Simulation Multi‑Scénarios et Analyse Risque‑Rendement (LVMH vs Airbus)**  
-Analyse d’un investissement de 1M€ selon 5 scénarios de pondération et sur 4 horizons : **1Y, 3Y, 5Y, 10Y** .
+- Analyse d’un investissement de 1M€ selon 5 scénarios de pondération et sur 4 horizons : **1Y, 3Y, 5Y, 10Y** .
 
 ✅ Rendements 
 ✅ Volatilité 
