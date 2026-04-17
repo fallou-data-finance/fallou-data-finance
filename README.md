@@ -6,10 +6,10 @@ Passionné par la donnée, la finance quantitative et l’analyse de performance
 Je maîtrise les bases essentielles de la Data Science en Python et j’applique ces compétences à des problématiques financières réelles.
 
 Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3 jours entreprise)** dans les domaines :  
-• Data Science  
-• Data Analyst  
-• Financial Data Analyst  
-• Risque / Gestion de portefeuille  
+- Data Science  
+- Data Analyst  
+- Financial Data Analyst  
+- Risque / Gestion de portefeuille  
 
 **Disponible immédiatement**.
 
@@ -45,8 +45,11 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 
 ### 🔹 **Simulation Multi‑Scénarios et Analyse Risque‑Rendement (LVMH vs Airbus)**  
 Analyse d’un investissement de 1M€ selon 5 scénarios de pondération et sur 4 horizons : **1Y, 3Y, 5Y, 10Y**.  
-✅ Rendements • ✅ Volatilité • ✅ Sharpe • ✅ Portefeuille optimal  
-➡️ Airbus optimal court/moyen terme – LVMH optimal long terme  
+➡️ Airbus optimal court/moyen terme – LVMH optimal long terme 
+✅ Rendements 
+✅ Volatilité 
+✅ Sharpe 
+✅ Portefeuille optimal   
 🔗 https://github.com/fallou-data-finance/Simulation-Multi-Scenarios-et-Analyse-Risque-Rendement-LVMH-vs-Airbus
 
 ---
