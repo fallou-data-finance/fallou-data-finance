@@ -58,7 +58,7 @@ Je suis **à la recherche d’un stage / alternance (rythme 2 jours école – 3
 
 ---
 
-### 🔹 **Analyse Financière Apple – CAPM complet**  
+### 🔹 **Analyse Financière Apple – CAPM & Gestion du Risque**  
 Analyse des rendements AAPL vs S&P500 :  
 - β, α, R², Régression OLS (Newey‑West)  
 - Analyse de risque (VaR, ES)  
