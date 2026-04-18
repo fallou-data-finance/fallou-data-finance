@@ -84,8 +84,7 @@ Construction d’un portefeuille optimal :
 - Volatilité  
 - Analyse comparative vs CAC40  
 - Risque extrême (VaR / ES)  
-🔗 https://github.com/fallou-data-finance/Analyse-et-Gestion-d-un-Portefeuille-CAC-40-10-actifs-
-
+🔗 https://github.com/fallou-data-finance/cac40-portfolio-analysis
 
 ---
 
